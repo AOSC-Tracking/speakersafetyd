@@ -1,2 +1,3 @@
 u speakersafetyd - "speakersafetyd Daemon Owner" /var/lib/speakersafetyd
 g speakersafetyd
+m speakersafetyd audio
